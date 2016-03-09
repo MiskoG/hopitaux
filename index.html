@@ -10,10 +10,6 @@
     <link href="style/bootstrap.min.css" rel="stylesheet">
     <!-- Feuilles de style -->
     <link rel="stylesheet" type="text/css"  href="style/style.css">
-
-    <!-- Leaflet Map -->
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
   </head>
 
   <body>
@@ -21,10 +17,12 @@
     <div id="options">
     </div>
 
-    <!-- the OpenSteetMap -->
+    <!-- the Google Map -->
     <div id="map"></div>
 
-    <!-- Leaflet script for filling the map -->
+    <!-- Script for filling the Map with hospitals -->
     <script type="text/javascript" src="js/map.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap"
+        async defer></script>
   </body>
 </html>

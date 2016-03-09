@@ -1,10 +1,17 @@
-// set up the map
-var map = new L.Map('map');
+function initMap() {
+  var myLatLng = {lat: 48.858, lng: 2.32};
 
-// create the tile layer with correct attribution
-var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-var osm = new L.TileLayer(osmUrl, {minZoom: 11, maxZoom: 19});
+  // Create a map object and specify the DOM element for display.
+  var map = new google.maps.Map(document.getElementById('map'), {
+    center: {lat: 48.858, lng: 2.32},
+    scrollwheel: false,
+    zoom: 13
+  });
 
-// start the map
-map.setView(new L.LatLng(48.858, 2.32),13);
-map.addLayer(osm);
+  // Create a marker and set its position.
+  var marker = new google.maps.Marker({
+    map: map,
+    position: myLatLng,
+    title: 'Hello World!'
+  });
+}
