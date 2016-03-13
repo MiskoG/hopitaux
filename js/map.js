@@ -56,8 +56,6 @@ function getMarkersByCategory(category) {
     }
     addMarker(latitude,longitude,hospitals[i].name,imageMarker);
   };
-
-  console.log(hospitals);
 }
 
 // Adds a marker to the map and pushes it to the array.
