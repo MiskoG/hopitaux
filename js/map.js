@@ -1,13 +1,13 @@
 var map;
 var markers = [];
-var imageMarkers = ['./img/marker-none.png','./img/marker-1.png','./img/marker-2.png','./img/marker-3.png'];
+var imageMarkers = ['./img/marker-noneb.png','./img/marker-1b.png','./img/marker-2b.png','./img/marker-3b.png'];
 
 function initMap() {
   // Create a map object and specify the DOM element for display.
   map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: 48.858, lng: 2.32},
     scrollwheel: false,
-    zoom: 12
+    zoom: 13
   });
   getMarkersGeneral();
 }
@@ -62,6 +62,15 @@ function getMarkersByCategory(category) {
 
 // Adds a marker to the map and pushes it to the array.
 function addMarker(latitude,longitude,name,icon) {
+
+  var contentString = '<div id="content">'+
+      '<h1 id="firstHeading" class="firstHeading">'+ name +'</h1>'+
+      '</div>';
+
+  var infowindow = new google.maps.InfoWindow({
+    content: contentString
+  });
+
   var marker = new google.maps.Marker({
     map: map,
     position: 
@@ -70,6 +79,10 @@ function addMarker(latitude,longitude,name,icon) {
     title: name,
     icon: imageMarkers[icon]
   });
+  marker.addListener('click', function() {
+    infowindow.open(map, marker);
+  });
+
   markers.push(marker);
 }
 
