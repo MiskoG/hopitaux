@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:ex="http://example.com/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:myhosp="http://127.0.0.1:3333/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:db="http://dbpedia.org/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750000523">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>GROUPEMENT HOSPITALIER PARIS SAINT-JOSEPH</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.829866</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.311217</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750000549">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>FONDATION OPHTALMOLOGIQUE ROTHSCHILD</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.878604</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.377999</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750006728">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>GROUPEMENT HOSPITALIER DIACONESSES-CROIX SAINT-SIMON</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.853212</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.408128</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750041543">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL BRETONNEAU</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.890186</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.331199</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100018">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL HOTEL-DIEU/LA COLLEGIALE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.854049</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.348235</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100042">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CHU SAINT LOUIS SITE LARIBOISIERE-APHP</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.882286</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.352533</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100075">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL SAINT-LOUIS</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.873151</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.369607</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100083">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL ROTHSCHILD</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.842996</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.397863</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100091">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL SAINT-ANTOINE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.848315</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.381951</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100109">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL TROUSSEAU</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.842427</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.405281</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100125">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>GROUPEMENT HOSPITALIER PITIE-SALPETRIERE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.837212</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.364769</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100166">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL COCHIN/ST VINCENT DE PAUL</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.837345</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.338874</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100208">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL NECKER ENFANTS MALADES</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.845318</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.312449</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100216">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL VAUGIRARD</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.834217</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.293948</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100232">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>GIH BICHAT/CLAUDE BERNARD</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.898530</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.332302</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100273">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL TENON</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.866134</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.401075</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100299">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>GROUPEMENT HOSPITALIER STE PERINE LAGACHE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.844399</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.266838</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750110025">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CNO QUINZE VINGTS</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.851066</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.371992</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750140014">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CH SAINTE-ANNE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.830092</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.340139</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150013">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL PIERRE ROUQUES - LES BLUETS</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.843020</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.405992</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150104">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>INSTITUT MUTUALISTE MONTSOURIS</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.822561</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.332660</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150146">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL LEOPOLD BELLAN</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.829655</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.310462</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150187">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>MAISON MEDICALE JEANNE GARNIER</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.846563</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.289709</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150252">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE EDOUARD RIST</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.846659</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.265305</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150286">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL JEAN JAURÈS</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.887427</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.393558</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150310">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>AURA CENTRE D'HEMODIALYSE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.877664</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.352438</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150344">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL PRIVÉ COGNACQ-JAY</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.837731</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.292848</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150377">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL HENRY DUNANT</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.840048</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.258495</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750160012">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>INSTITUT CURIE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.843851</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.344819</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300014">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>SA CLINIQUE DU LOUVRE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.859209</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.341185</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300071">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE GEOFFROY ST HILAIRE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.843536</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.354922</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300089">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE MÉDICO-CHIRURGICALE PARIS V</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.839002</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.357891</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300097">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>INSTITUT ARTHUR VERNES</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.847602</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.329497</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300121">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>MAISON SANTÉ ST JEAN DE DIEU</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.850063</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.317554</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300139">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE DE L ALMA</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.861208</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.305618</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300154">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE TURIN</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.879914</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.325051</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300220">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE MILAN</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.878690</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.327713</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300360">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL DES PEUPLIERS CRF</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.823583</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.352821</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300410">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE JEANNE D'ARC</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.826334</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.367730</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300493">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE ARAGO</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.829289</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.310162</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300550">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE SAINTE GENEVIEVE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.826213</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.329360</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300592">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE BLOMET</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.839671</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.295869</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300667">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>MATERNITE SAINTE FELICITE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.836691</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.293008</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300741">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE VICTOR HUGO</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.871308</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.291323</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300766">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE BIZET</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.867557</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2968888</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300774">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE JOUVENET</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8422358</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2645838</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300840">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE DE LA MUETTE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8603801</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2755688</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300857">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>MAISON DE SANTÉ REMUSAT</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8478661</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2692152</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300881">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE DU TROCADERO</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8603575</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2788387</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300915">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE INTERNATIONALE PARC MONCEAU</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8799928</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.3019496</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300931">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE SAINTE-THERESE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8867576</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.3016229</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750301137">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE ALLERAY LABROUSTE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8322348</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.3043766</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750301145">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE DU MONT LOUIS</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8572582</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.3836941</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750301152">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CENTRE CHIRURGICAL MARCADET</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.891825</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.3319231</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750301160">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CLINIQUE DES MAUSSINS</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8770705</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.4023273</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750712184">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>AP-HP</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8494835</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.3822213</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750790164">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CENTRE MÉDICO-CHIRURGICAL ORL ET OPHTALMO</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.866346</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.308905</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750801441">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL BROCA/LA ROCHEFOUCAULT</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8342191</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.345345</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750803447">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL EUROPEEN G. POMPIDOU/BROUSSAIS</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8393645</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2711015</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750803454">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>HÔPITAL ROBERT DEBRE</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8787185</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.4008279</myhosp:longitude>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750829053">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<myhosp:HospitalName>CENTRE D'AUTODIALYSE SODIAL</myhosp:HospitalName>
+	<myhosp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8683764</myhosp:latitude>
+	<myhosp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2574622</myhosp:longitude>
+</rdf:Description>
+
+</rdf:RDF>

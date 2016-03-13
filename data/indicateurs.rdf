@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:myhosp="http://127.0.0.1:3333/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750000523">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750000523</dc:title>
+	<myhosp:Hospital>GROUPEMENT HOSPITALIER PARIS SAINT-JOSEPH</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>11.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.88</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.84</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750000549">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750000549</dc:title>
+	<myhosp:Hospital>FONDATION OPHTALMOLOGIQUE ROTHSCHILD</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>4.4</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.99</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750006728">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750006728</dc:title>
+	<myhosp:Hospital>GROUPEMENT HOSPITALIER DIACONESSES-CROIX SAINT-SIMON</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>13.4</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.82</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.86</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750041543">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750041543</dc:title>
+	<myhosp:Hospital>HÔPITAL BRETONNEAU</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>14.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.96</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100018">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100018</dc:title>
+	<myhosp:Hospital>HÔPITAL HOTEL-DIEU/LA COLLEGIALE</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>1.4</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.81</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.53</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100042">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100042</dc:title>
+	<myhosp:Hospital>CHU SAINT LOUIS SITE LARIBOISIERE-APHP</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>5.8</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.03</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.91</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100075">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100075</dc:title>
+	<myhosp:Hospital>HÔPITAL SAINT-LOUIS</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>49.4</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.06</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.16</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100083">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100083</dc:title>
+	<myhosp:Hospital>HÔPITAL ROTHSCHILD</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>9.4</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.07</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100091">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100091</dc:title>
+	<myhosp:Hospital>HÔPITAL SAINT-ANTOINE</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>26.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.11</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.96</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100109">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100109</dc:title>
+	<myhosp:Hospital>HÔPITAL TROUSSEAU</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>5.6</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.92</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.97</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100125">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100125</dc:title>
+	<myhosp:Hospital>GROUPEMENT HOSPITALIER PITIE-SALPETRIERE</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>15.7</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.12</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.95</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100166">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100166</dc:title>
+	<myhosp:Hospital>HÔPITAL COCHIN/ST VINCENT DE PAUL</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>18.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.01</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.01</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100208">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100208</dc:title>
+	<myhosp:Hospital>HÔPITAL NECKER ENFANTS MALADES</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>8.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.98</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.83</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100216">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100216</dc:title>
+	<myhosp:Hospital>HÔPITAL VAUGIRARD</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>4.5</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.02</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100232">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100232</dc:title>
+	<myhosp:Hospital>GIH BICHAT/CLAUDE BERNARD</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>9.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.19</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100273">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100273</dc:title>
+	<myhosp:Hospital>HÔPITAL TENON</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>19.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.06</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.95</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750100299">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750100299</dc:title>
+	<myhosp:Hospital>GROUPEMENT HOSPITALIER STE PERINE LAGACHE</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>18.2</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.25</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750110025">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750110025</dc:title>
+	<myhosp:Hospital>CNO QUINZE VINGTS</myhosp:Hospital>
+	<myhosp:Category>CH</myhosp:Category>
+	<myhosp:UrgencesIndice>0.6</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.9</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750140014">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750140014</dc:title>
+	<myhosp:Hospital>CH SAINTE-ANNE</myhosp:Hospital>
+	<myhosp:Category>CH</myhosp:Category>
+	<myhosp:UrgencesIndice>5.9</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.09</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150013">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150013</dc:title>
+	<myhosp:Hospital>HÔPITAL PIERRE ROUQUES - LES BLUETS</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>0.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.05</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150104">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150104</dc:title>
+	<myhosp:Hospital>INSTITUT MUTUALISTE MONTSOURIS</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>16.5</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.95</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.89</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150146">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150146</dc:title>
+	<myhosp:Hospital>HÔPITAL LEOPOLD BELLAN</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>8.6</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.09</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150187">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150187</dc:title>
+	<myhosp:Hospital>MAISON MEDICALE JEANNE GARNIER</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>88.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.0</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150252">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150252</dc:title>
+	<myhosp:Hospital>CLINIQUE EDOUARD RIST</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>7.5</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.74</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150286">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150286</dc:title>
+	<myhosp:Hospital>HÔPITAL JEAN JAURÈS</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>85.9</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.0</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150310">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150310</dc:title>
+	<myhosp:Hospital>AURA CENTRE D'HEMODIALYSE</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>22.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.85</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150344">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150344</dc:title>
+	<myhosp:Hospital>HÔPITAL PRIVÉ COGNACQ-JAY</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>91.2</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.0</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750150377">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750150377</dc:title>
+	<myhosp:Hospital>HÔPITAL HENRY DUNANT</myhosp:Hospital>
+	<myhosp:Category>EBNL</myhosp:Category>
+	<myhosp:UrgencesIndice>14.9</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.9</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750160012">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750160012</dc:title>
+	<myhosp:Hospital>INSTITUT CURIE</myhosp:Hospital>
+	<myhosp:Category>CLCC</myhosp:Category>
+	<myhosp:UrgencesIndice>92.8</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.94</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300014">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300014</dc:title>
+	<myhosp:Hospital>SA CLINIQUE DU LOUVRE</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>9.4</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.76</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300071">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300071</dc:title>
+	<myhosp:Hospital>CLINIQUE GEOFFROY ST HILAIRE</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>5.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.94</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.57</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300089">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300089</dc:title>
+	<myhosp:Hospital>CLINIQUE MÉDICO-CHIRURGICALE PARIS V</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>15.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.84</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300097">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300097</dc:title>
+	<myhosp:Hospital>INSTITUT ARTHUR VERNES</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>4.8</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.64</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300121">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300121</dc:title>
+	<myhosp:Hospital>MAISON SANTÉ ST JEAN DE DIEU</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>22.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.88</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.94</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300139">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300139</dc:title>
+	<myhosp:Hospital>CLINIQUE DE L ALMA</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>14.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.92</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.02</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300154">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300154</dc:title>
+	<myhosp:Hospital>CLINIQUE TURIN</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>5.5</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.84</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.88</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300220">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300220</dc:title>
+	<myhosp:Hospital>CLINIQUE MILAN</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>1.6</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.73</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300360">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300360</dc:title>
+	<myhosp:Hospital>HÔPITAL DES PEUPLIERS CRF</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>12.5</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.9</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300410">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300410</dc:title>
+	<myhosp:Hospital>CLINIQUE JEANNE D'ARC</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>5.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.86</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.87</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300493">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300493</dc:title>
+	<myhosp:Hospital>CLINIQUE ARAGO</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>1.7</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.76</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300550">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300550</dc:title>
+	<myhosp:Hospital>CLINIQUE SAINTE GENEVIEVE</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>11.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.76</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300592">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300592</dc:title>
+	<myhosp:Hospital>CLINIQUE BLOMET</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>5.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.93</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.51</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300667">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300667</dc:title>
+	<myhosp:Hospital>MATERNITE SAINTE FELICITE</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>0.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.0</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.14</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300741">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300741</dc:title>
+	<myhosp:Hospital>CLINIQUE VICTOR HUGO</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>0.2</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.81</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300766">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300766</dc:title>
+	<myhosp:Hospital>CLINIQUE BIZET</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>19.6</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.98</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.52</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300774">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300774</dc:title>
+	<myhosp:Hospital>CLINIQUE JOUVENET</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>0.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.96</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300840">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300840</dc:title>
+	<myhosp:Hospital>CLINIQUE DE LA MUETTE</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>3.4</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.79</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.86</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300857">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300857</dc:title>
+	<myhosp:Hospital>MAISON DE SANTÉ REMUSAT</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>3.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.93</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300881">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300881</dc:title>
+	<myhosp:Hospital>CLINIQUE DU TROCADERO</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>12.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.81</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.78</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300915">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300915</dc:title>
+	<myhosp:Hospital>CLINIQUE INTERNATIONALE PARC MONCEAU</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>4.9</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.81</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.84</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750300931">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750300931</dc:title>
+	<myhosp:Hospital>CLINIQUE SAINTE-THERESE</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>0.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.94</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.91</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750301137">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750301137</dc:title>
+	<myhosp:Hospital>CLINIQUE ALLERAY LABROUSTE</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>9.7</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.9</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750301145">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750301145</dc:title>
+	<myhosp:Hospital>CLINIQUE DU MONT LOUIS</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>5.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.97</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750301152">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750301152</dc:title>
+	<myhosp:Hospital>CENTRE CHIRURGICAL MARCADET</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>8.1</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.88</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.55</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750301160">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750301160</dc:title>
+	<myhosp:Hospital>CLINIQUE DES MAUSSINS</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>0.2</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.91</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750712184">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750712184</dc:title>
+	<myhosp:Hospital>AP-HP</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>15.7</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.06</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.97</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750790164">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750790164</dc:title>
+	<myhosp:Hospital>CENTRE MÉDICO-CHIRURGICAL ORL ET OPHTALMO</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>0.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.0</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750801441">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750801441</dc:title>
+	<myhosp:Hospital>HÔPITAL BROCA/LA ROCHEFOUCAULT</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>6.7</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.94</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750803447">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750803447</dc:title>
+	<myhosp:Hospital>HÔPITAL EUROPEEN G. POMPIDOU/BROUSSAIS</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>22.6</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.04</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>1.34</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750803454">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750803454</dc:title>
+	<myhosp:Hospital>HÔPITAL ROBERT DEBRE</myhosp:Hospital>
+	<myhosp:Category>CHR</myhosp:Category>
+	<myhosp:UrgencesIndice>5.3</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>1.02</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.99</myhosp:MaterniteIndice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/750829053">
+	<rdf:type rdf:resource="http://127.0.0.1:3333/Hospital"/>
+	<dc:title>750829053</dc:title>
+	<myhosp:Hospital>CENTRE D'AUTODIALYSE SODIAL</myhosp:Hospital>
+	<myhosp:Category>CLI</myhosp:Category>
+	<myhosp:UrgencesIndice>0.0</myhosp:UrgencesIndice>
+	<myhosp:ChirurgieIndice>0.0</myhosp:ChirurgieIndice>
+	<myhosp:MaterniteIndice>0.0</myhosp:MaterniteIndice>
+</rdf:Description>
+
+</rdf:RDF>
