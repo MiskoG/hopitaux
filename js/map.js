@@ -52,7 +52,7 @@ function getMarkersByCategory(category) {
       imageMarker = hospitals[i].indiceChir;
     }
     else {
-      imageMarker = 2;
+      imageMarker = 3;
     }
     addMarker(latitude,longitude,hospitals[i].name,imageMarker);
   };

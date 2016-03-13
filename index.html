@@ -13,18 +13,35 @@
   </head>
 
   <body>
-    <!-- Option screen -->
-    <div id="options">
-        <br/><br/>
-        <a href="#" onclick="getMarkersGeneral()">Voir tous les hôpitaux</a>
-        <br/>
-        <p>ou bien :</p>
-        <br/>
-        <a href="#" onclick="getMarkersUrgences()">Urgences</a>
-        <br/>
-        <a href="#" onclick="getMarkersMaternite()">Maternité</a>
-        <br/>
-        <a href="#" onclick="getMarkersChirurgie()">Séjours longs</a>
+    <div class="container">
+        <!-- Option screen -->
+        <div id="options">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1 text-center logo">
+                    <img src="img/logo.png" alt="Logo" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1 text-center logo">
+                    <p>
+                        <button type="button" class="btn btn-primary wide" onclick="getMarkersGeneral()">Voir tous les hôpitaux<br/> de Paris</button>
+                    </p>
+                    <h2 class="title">Pour quoi ?</h2>
+                    <p class="choice">
+                        <img src="img/urgence.png" alt="Urgences" />
+                        <button type="button" class="btn btn-primary wide" onclick="getMarkersUrgences()">Urgences</button>
+                    </p>
+                    <p class="choice">
+                        <img src="img/baby.png" alt="Maternité" />
+                        <button type="button" class="btn btn-primary wide" onclick="getMarkersMaternite()">Maternité</button>
+                    </p>
+                    <p class="choice">
+                        <img src="img/heart.png" alt="Chirurgie" />
+                        <button type="button" class="btn btn-primary wide" onclick="getMarkersChirurgie()">Chirurgie</button>
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- the Google Map -->

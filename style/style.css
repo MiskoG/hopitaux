@@ -24,3 +24,22 @@ html,body {
 .firstHeading {
 	font-size: 1.3em;
 }
+
+.logo {
+	margin-top: 2em;
+}
+
+.wide {
+	width: 100%;
+}
+
+.title {
+	font-size: 25px;
+	color: #114491;
+	margin-top: 1.4em;
+	margin-bottom: 1.2em;
+}
+
+.choice {
+	margin-bottom: 1.4em;
+}

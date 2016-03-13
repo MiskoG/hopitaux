@@ -1,5 +1,0 @@
-TODO
-
-- catégorie de l'établissement
-- click ailleurs : fermer l'info bulle
-- embellir le menu gauche
