@@ -4,7 +4,7 @@ function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: 48.858, lng: 2.32},
     scrollwheel: false,
-    zoom: 13
+    zoom: 12
   });
 
   // Let's initialize the hospitals data
