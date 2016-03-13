@@ -1,7 +1,6 @@
 var map;
 var markers = [];
 var imageMarkers = ['./img/marker-none.png','./img/marker-1.png','./img/marker-2.png','./img/marker-3.png'];
-var hospitals = JSON.parse(hospitalsJSON);
 
 function initMap() {
   // Create a map object and specify the DOM element for display.
@@ -10,7 +9,6 @@ function initMap() {
     scrollwheel: false,
     zoom: 12
   });
-
   getMarkersGeneral();
 }
 
@@ -35,13 +33,13 @@ function getMarkersByCategory(category) {
     imageMarker = 1
   }
   for (var i = 0; i < hospitals.length ; i++) {
-    var latitude = parseFloat(hospitals[i].latitude);
-    var longitude = parseFloat(hospitals[i].longitude);
+    var latitude = hospitals[i].latitude;
+    var longitude = hospitals[i].longitude;
     addMarker(latitude,longitude,hospitals[i].name,imageMarker);
   };
 }
 
-// Adds a marker to the map and push to the array.
+// Adds a marker to the map and pushes it to the array.
 function addMarker(latitude,longitude,name,icon) {
   var marker = new google.maps.Marker({
     map: map,
