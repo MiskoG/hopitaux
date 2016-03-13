@@ -24,19 +24,40 @@ function getMarkersUrgences() {
   getMarkersByCategory('urgences');
 }
 
+// Gets and displays the markers for the MATERNITE category
+function getMarkersMaternite() {
+  deleteMarkers();
+  getMarkersByCategory('maternite');
+}
+
+// Gets and displays the markers for the CHIRURGIE category
+function getMarkersChirurgie() {
+  deleteMarkers();
+  getMarkersByCategory('chirurgie');
+}
+
 // Gets the list of markers depending on its category : General, Urgences, Maternité or Séjours longs
 function getMarkersByCategory(category) {
-  if(category == 'general') {
-    imageMarker = 2;
-  }
-  else {
-    imageMarker = 1
-  }
   for (var i = 0; i < hospitals.length ; i++) {
     var latitude = hospitals[i].latitude;
     var longitude = hospitals[i].longitude;
+
+    if(category == 'urgences') {
+      imageMarker = hospitals[i].indiceUrg;
+    }
+    else if (category == 'maternite') {
+      imageMarker = hospitals[i].indiceMater;
+    }
+    else if (category == 'chirurgie') {
+      imageMarker = hospitals[i].indiceChir;
+    }
+    else {
+      imageMarker = 2;
+    }
     addMarker(latitude,longitude,hospitals[i].name,imageMarker);
   };
+
+  console.log(hospitals);
 }
 
 // Adds a marker to the map and pushes it to the array.
